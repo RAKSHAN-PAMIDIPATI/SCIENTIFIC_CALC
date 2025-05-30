@@ -1,5 +1,5 @@
 # SCIENTIFIC_CALC
-A fully functional scientific calculator built with [your tech stack, e.g., HTML, CSS, JavaScript], supporting advanced mathematical operations including trigonometry, logarithms, exponentiation, and more.
+A fully functional scientific calculator built with [python], supporting advanced mathematical operations including trigonometry, logarithms, exponentiation, and more.
 
 Developing a scientific calculator using python Introduction: In this project, we build up the scientific calculator using the tkinter library of Python. It is the standard GUI library for Python. With its help, we prepared the GUI for the project, and to add the functionalities of the scientific calculator, we used a math module. So, scroll down and get to know the steps!
 
